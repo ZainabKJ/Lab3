@@ -5,7 +5,7 @@ var pool = mysql.createPool({
   connectionLimit: 100,
   host: "sql6.freemysqlhosting.net",
   user: "sql6451208",
-  password: "",
+  password: "Hussain97!!",
   database: "sql6451208",
   debug: true
 });
