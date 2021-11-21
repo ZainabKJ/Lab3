@@ -1,7 +1,7 @@
 const database = require("./dbQuery");
 const bcrypt = require("bcryptjs");
 
-//select all clients
+//select all clients in the report
 function find(callback) {
   var rows = null;
   //put your code her to select clients and return the array
